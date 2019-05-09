@@ -1,0 +1,6 @@
+c:\users\briñas\documents\visual studio 2015\Projects\studentinformation\studentinformation\bin\Debug\studentinformation.exe.config
+c:\users\briñas\documents\visual studio 2015\Projects\studentinformation\studentinformation\bin\Debug\studentinformation.exe
+c:\users\briñas\documents\visual studio 2015\Projects\studentinformation\studentinformation\bin\Debug\studentinformation.pdb
+c:\users\briñas\documents\visual studio 2015\Projects\studentinformation\studentinformation\obj\Debug\studentinformation.csprojResolveAssemblyReference.cache
+c:\users\briñas\documents\visual studio 2015\Projects\studentinformation\studentinformation\obj\Debug\studentinformation.exe
+c:\users\briñas\documents\visual studio 2015\Projects\studentinformation\studentinformation\obj\Debug\studentinformation.pdb
